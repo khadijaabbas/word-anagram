@@ -4,4 +4,5 @@ Words are loaded from a file, filtered by length, scrambled, and presented to th
 
 ## setup instructions
 Make sure Python is installed and that wordlist.txt is in the same directory.
+
 run using: python3 word_anagram.py
